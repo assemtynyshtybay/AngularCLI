@@ -1,0 +1,35 @@
+.set{
+  background-color: red;
+}
+.main{
+  height:100%;
+background-color: ;
+}
+.header{
+  background-color: black;
+  color:white;
+}
+.desc{
+  
+  position: relative;
+  background-color: rgb(190, 0, 100);
+  font-size:small;
+  width:120px;
+}
+.btn{
+  margin-right: 10px;
+  margin-top:10px;
+  height: 75px;
+  width:75px;
+  border-radius: 15%;
+  padding-left: 5px;
+  padding-right: 5px;
+  float: left;
+    background-color: rgb(140, 50, 100);
+}
+.share{
+  position:fixed;
+  margin-left: 80%;
+  margin-bottom: 10%;
+  float: right;
+}
